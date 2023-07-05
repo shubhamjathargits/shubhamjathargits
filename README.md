@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="400" src="https://media.licdn.com/dms/image/D4D16AQGSquyMkf8XwA/profile-displaybackgroundimage-shrink_350_1400/0/1673605678068?e=1694044800&v=beta&t=Sbd6bFI466qEe-ysD4knYkCzTT-Q7JvYJs28Kiu45vg">
+<img align="right" alt="coding" width="900" src="https://media.licdn.com/dms/image/D4D16AQGSquyMkf8XwA/profile-displaybackgroundimage-shrink_350_1400/0/1673605678068?e=1694044800&v=beta&t=Sbd6bFI466qEe-ysD4knYkCzTT-Q7JvYJs28Kiu45vg">
 <h1 align="center">Hi 👋, I'm Shubham Nanasaheb Jathar</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
