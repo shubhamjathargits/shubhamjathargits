@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamjathargits&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamjathargits" /> </p>
 
-- 🔭 I’m currently working on **Java**
+- 🔭 I’m currently working on **JavaScript/Java**
 
-- 🌱 I’m currently learning **Java Backend**
+- 🌱 I’m currently learning **Frontend**
 
-- 👯 I’m looking to collaborate on **Java Project**
+- 👯 I’m looking to collaborate on **Full-Stack Project**
 
 - 👨‍💻 All of my projects are available at [https://shubhamjathargits.github.io/portfolioshubham/](https://shubhamjathargits.github.io/portfolioshubham/)
 
